@@ -1,0 +1,9 @@
+{
+    "editor.rulers" : [
+        {
+            "column": 80,
+            "color": "#00aeff7a",
+        }
+    ],
+    "autoDocstring.docstringFormat": "numpy"
+}

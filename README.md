@@ -16,3 +16,11 @@ Automates the installation of the following programs on a new linux machine.
 - [vscode](https://code.visualstudio.com/docs/setup/linux)
 
 **WARNING:** Compatible only with Debian-based distros using apt package manager (only tested on Ubuntu and Mint for now).
+
+
+## Configs
+
+### Visual Studio Code
+
+`configs/Code/User/settings.json` contains user settings for vscode.
+To apply those settings: paste its content in `~/.config/Code/User/settings.json`.
