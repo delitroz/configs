@@ -22,7 +22,7 @@ printf "\n\nInstalling vim...\n"
 sudo apt install vim
 if ! grep -q "set number" ~/.vimrc
 then
-	echo "set number" >> ~/.vimrc
+	echo "set number" >> ~/.vimrc  # Set line numbers by default
 fi
 
 
