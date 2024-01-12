@@ -15,4 +15,4 @@ Automates the installation of the following programs on a new linux machine.
 - [mamba](https://github.com/conda-forge/miniforge)
 - [vscode](https://code.visualstudio.com/docs/setup/linux)
 
-**WARNING:** Compatible only with Debian-based distros using apt package manager (only tested on Mint for now).
+**WARNING:** Compatible only with Debian-based distros using apt package manager (only tested on Ubuntu and Mint for now).
