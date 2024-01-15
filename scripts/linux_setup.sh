@@ -57,14 +57,3 @@ printf "\nInstalling python-related vscode extensions...\n\n"
 code --install-extension ms-python.python  # Python extension
 code --install-extension ms-toolsai.jupyter  # Jupyter notebook extension
 code --install-extension njpwerner.autodocstring
-
-
-# C++ setup
-printf "\n\nSetting up C++..."
-
-sudo apt install g++
-
-# C++ related vscode extensions
-printf "\nInstalling C++ related vscode extensions...\n\n"
-code --instal-extension ms-vscode.cpptools
-code --instal-extension ms-vscode.cpptools-extension-pack
